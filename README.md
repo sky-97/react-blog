@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Created an interactive blogging platform using React.js and Redux to manage the website's state effectively. This website allows users to effortlessly create and publish their posts, thanks to the implementation of reusable components that enhance modularity. By integrating the powerful editing capabilities of TinyMCE for rich text editing, users can easily customize their content. The seamless authentication and data management provided by Appwrite backend services ensure a smooth and secure user experience. Leveraging HTML-react-parser for efficient HTML parsing and React Router for seamless navigation, this project offers a user-friendly and captivating platform for sharing thoughts and experiences.
